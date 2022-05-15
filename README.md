@@ -1,0 +1,2 @@
+# Twitter_SentimentAnalysis_from_Scratch_Python
+Sentiment Analysis on Twitter dataset
